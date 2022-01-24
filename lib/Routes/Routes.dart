@@ -3,4 +3,5 @@ class MyRoutes{
   static String home = "/home";
   static String hosteldetails = "/detail";
   static String loginscreen = "/login";
+  static String SignUpScreen = "/signup";
 }

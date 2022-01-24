@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hostel_management_app/Pages/1_Login/LogInPage.dart';
 
 class StudentorOwner extends StatefulWidget {
   const StudentorOwner({Key? key}) : super(key: key);
@@ -37,7 +38,10 @@ class _StudentorOwnerState extends State<StudentorOwner> {
                               fontSize: 20,
                               fontWeight: FontWeight.bold)),
                       onPressed: () {
-                        Navigator.pushNamed(context, '/login');
+                        Navigator.pushReplacement(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => LogInScreen()));
                       },
                     ),
                     SizedBox(
@@ -54,7 +58,8 @@ class _StudentorOwnerState extends State<StudentorOwner> {
                               fontSize: 20,
                               fontWeight: FontWeight.bold)),
                       onPressed: () {
-                        Navigator.pushNamed(context, '/login');
+                        Navigator.pushReplacement(context,
+                MaterialPageRoute(builder: (context) => LogInScreen()));
                       },
                     ),
                   ],
