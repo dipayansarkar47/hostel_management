@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
               LikeListTile(
                   title: "PG Hostels",
                   likes: "4.8",
-                  subtitle: "It was a good environment"),
+                  subtitle: "Good environment"),
               LikeListTile1(
                   title: "Double Bed",
                   likes: "5.0",
@@ -57,6 +57,7 @@ class TopBar extends StatelessWidget {
                 color: Colors.black, fontSize: 30, fontWeight: FontWeight.bold),
           ),
           Container(
+            
             decoration: BoxDecoration(boxShadow: [
               BoxShadow(
                   offset: const Offset(12, 26),

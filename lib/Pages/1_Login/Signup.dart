@@ -151,8 +151,8 @@ class _SignUpScreenState extends State<SignUpScreen> {
           onPressed: () {
             signUp(emailNameEditingTextController.text,
                 passwordNameEditingTextController.text);
-            // Navigator.pushReplacement(context,
-            //     MaterialPageRoute(builder: (context) => LogInScreen()));
+            Navigator.pushReplacement(context,
+                MaterialPageRoute(builder: (context) => LogInScreen()));
           },
         ));
     return Scaffold(
