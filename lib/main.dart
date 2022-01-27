@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
       home: BottomNavigations(),
       initialRoute: MyRoutes.firstPage,
       routes: {
-        // '/': (context) => Home(),
+        // '/home': (context) => BottomNavigations(),
         MyRoutes.home: (context) => BottomNavigations(),
         MyRoutes.firstPage: (context) => StudentorOwner(),
         MyRoutes.hosteldetails: (context) => HostelDetails(),

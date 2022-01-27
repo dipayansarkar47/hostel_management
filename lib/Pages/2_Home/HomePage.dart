@@ -242,7 +242,7 @@ class Headline extends StatelessWidget {
                     fontWeight: FontWeight.normal),
               ),
               Text(
-                "There are some hostels near you",
+                "Check out the nearest Hostels",
                 style: TextStyle(
                     color: Colors.grey,
                     fontSize: 12,
