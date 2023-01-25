@@ -1,6 +1,6 @@
 # hostel_management_app
 
-A new Flutter project.
+![hostel_management](images/hmss.jpeg)
 
 ## Getting Started
 
