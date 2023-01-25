@@ -1,5 +1,9 @@
 # hostel_management_app
-
+<div align="center">
+  <span align="center"> <img width="80" height="80" class="center" src="[https://github.com/alainm23/planner/blob/master/data/icons/128/com.github.alainm23.planner.svg](https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg)" alt="Icon"></span>
+  <h1 align="center">Planner</h1>
+  <h3 align="center">Never worry about forgetting things again</h3>
+</div>
 ![hostel_management](images/hmss.jpeg)
 
 ## Getting Started
