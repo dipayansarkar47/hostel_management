@@ -1,20 +1,18 @@
 # hostel_management_app
 <div align="center">
-  <span align="center"> <img width="80" height="80" class="center" src="[https://github.com/alainm23/planner/blob/master/data/icons/128/com.github.alainm23.planner.svg](https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg)" alt="Icon"></span>
-  <h1 align="center">Planner</h1>
-  <h3 align="center">Never worry about forgetting things again</h3>
+  <span align="center"> <img width="80" height="80" class="center" src="https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg" alt="Icon"></span>
+  <h1 align="center">Hostel Management App</h1>
+  <h3 align="center">Book your nearest Hostel</h3>
 </div>
 ![hostel_management](images/hmss.jpeg)
 
-## Getting Started
+## Technologies...
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🚀️ Flutter for the UI.
+- 🏅️ Material Icon.
+- 💪️ Firebase Authentication
+- 📅️ User Login & SignUp Page
+- 💎️ Comment section below each hostel page
+- ⏲️ Beautiful Navigation UI
+- 🌙️ Better integration with the dark theme.
+- 🎉️ and much more.
